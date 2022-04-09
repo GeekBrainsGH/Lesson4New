@@ -1,0 +1,1 @@
+{"uuid":"c9d08807-d944-4282-aed1-a016ebae9eb3","name":"deleteShoppingListTest()","children":["cd2ca05d-b531-4862-ac31-fc50cc83b6fe"],"befores":[{"name":"setUpEach","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1649509830966,"stop":1649509833074}],"afters":[],"start":1649509830931,"stop":1649509833403}
